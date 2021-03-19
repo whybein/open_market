@@ -9,7 +9,7 @@ django-crontab==0.7.1
 django-js-asset==1.2.2
 django-mptt==0.11.0
 mysqlclient==1.4.6
-Pillow==7.1.1
+Pillow==8.1.1
 pycparser==2.20
 PyJWT==1.7.1
 python-dateutil==2.8.1
